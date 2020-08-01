@@ -39,6 +39,3 @@
         - семейным положением
         - уровнем дохода
         - целями кредита
-
-## Полноценный просмотр
-ГитХаб не отображает полностью содержимое этой работы. Для просмотра работы во всей красе перейдите на сайт [nbviewer](https://github.com/IvanKuznetsovAnalyst/praktikum/blob/master/Project_01_banks_borrowers/Project_01_banks_borrowers.ipynb)
